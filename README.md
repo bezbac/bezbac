@@ -5,7 +5,7 @@ I'm a digital generalist, currently working towards my **BSc Software Engineerin
 Next to studying, I work within early-stage startups, where I spend most of my time programming across the stack,  
 but I enjoy the opportunity to work on design and product too.
 
-💬 Currently I work on all things web-related @ **Superchat**
+💬 Currently I work on all things web-related @ [**Superchat**](https://www.superchat.de)
 
 ### Things I enjoy working with
 ![Rust](https://img.shields.io/badge/-Rust-334155?style=flat&logo=rust&logoColor=white)&nbsp;
