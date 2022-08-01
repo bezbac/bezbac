@@ -1,11 +1,10 @@
 ## 👋 Hi there! I'm Ben
 
 
-I'm a digital generalist, currently working towards my **BSc Software Engineering at CODE University** in Berlin.  
-Next to studying, I work within early-stage startups, where I spend most of my time programming across the stack,  
+I'm a digital generalist, currently working work on all things web-related @ [**Superchat**](https://www.superchat.de).
+I have a Bachelor degree in Software Engineering from CODE University in Berlin.
+Most of my time I programm across the stack, 
 but I enjoy the opportunity to work on design and product too.
-
-💬 Currently I work on all things web-related @ [**Superchat**](https://www.superchat.de)
 
 ### Things I enjoy working with
 ![Rust](https://img.shields.io/badge/-Rust-334155?style=flat&logo=rust&logoColor=white)&nbsp;
@@ -23,3 +22,4 @@ but I enjoy the opportunity to work on design and product too.
 ![Postgres](https://img.shields.io/badge/-Postgres-334155?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-334155?style=flat&logo=docker&logoColor=white)&nbsp;
 ![github actions](https://img.shields.io/badge/-Github_Actions-334155?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-334155?style=flat&logo=figma&logoColor=white)&nbsp;
